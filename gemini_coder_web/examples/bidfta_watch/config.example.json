@@ -1,0 +1,8 @@
+{
+  "cdp_port": 9222,
+  "url_substring": "bidfta",
+  "poll_seconds": 15,
+  "keywords": ["laptop", "console", "tv", "iphone", "ipad", "dell", "samsung", "monitor"],
+  "max_current_bid_usd": 75.0,
+  "min_title_chars": 3
+}

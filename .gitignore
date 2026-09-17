@@ -1,0 +1,17 @@
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+venv/
+.venv/
+env/
+node_modules/
+.claude/
+CLAUDE.md
+*.log
+crash*.log
+*.tmp
